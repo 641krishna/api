@@ -60,5 +60,19 @@
         "age": 20,
         "email": "cnorssister9@mayoclinic.com"
       }
+    ],
+    "names":[
+        {
+            "id": 1,
+            "name": "Zachary Seward",
+            "age": 45,
+            "email": "zseward8@oracle.com"
+          },
+          {
+            "id": 2,
+            "name": "Chucho Norssister",
+            "age": 20,
+            "email": "cnorssister9@mayoclinic.com"
+          }
     ]
   }
